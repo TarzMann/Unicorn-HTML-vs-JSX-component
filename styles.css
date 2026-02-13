@@ -148,6 +148,20 @@ body {
     background-color: #333;
 }
 
+.download-button.tertiary {
+    background-color: transparent;
+    color: #111;
+    border: 1px solid #dcdbd6;
+}
+
+.download-button.tertiary:hover {
+    background-color: #e8e5db;
+}
+
+.download-button.tertiary:active {
+    background-color: #D8D6CE;
+}
+
 /* --- Page label ---
    Fixed badge at top center (“HTML version”) */
 .page-label {
